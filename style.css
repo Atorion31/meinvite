@@ -40,7 +40,7 @@ strong{
     font-family: "Montserrat", sans-serif;
 }
 
-#imagem {
+.imagem {
   width: 100%;
   margin-left: 10%;
 }
